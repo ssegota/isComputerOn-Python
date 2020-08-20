@@ -1,4 +1,4 @@
-import isComputerOn
+import is_computer_on
 
-if(isComputerOn):
+if(is_computer_on):
     print("Computer is on!")

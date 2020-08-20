@@ -4,6 +4,6 @@
 #If the computer is on returns True
 #If the computer is not on, the behaviour is undefined
 #NOTE: Yes, this is a joke
-def isComputerOn():
+def is_computer_on():
     return True
 
